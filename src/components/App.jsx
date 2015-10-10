@@ -1,11 +1,12 @@
 
-var Component = require('Component');
+import Component from 'Component';
+import Map from 'Map.jsx';
 
 export default class App extends Component{
 
   render() {
     return (
-      <div>Hello Word</div>
+      <Map/>
     );
   }
 
