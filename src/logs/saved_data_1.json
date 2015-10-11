@@ -1,0 +1,225 @@
+{
+    "data": [
+        {
+            "latitude": "37.769756", 
+            "longitude": "-122.414778", 
+            "prices": [
+                {
+                    "currency_code": "USD", 
+                    "display_name": "uberX", 
+                    "distance": 0.0, 
+                    "duration": 0, 
+                    "estimate": "$6-7", 
+                    "high_estimate": 7, 
+                    "localized_display_name": "uberX", 
+                    "low_estimate": 6, 
+                    "minimum": 5, 
+                    "product_id": "a1111c8c-c720-46c3-8534-2fcdd730040d", 
+                    "surge_multiplier": 1.4
+                }, 
+                {
+                    "currency_code": "USD", 
+                    "display_name": "uberXL", 
+                    "distance": 0.0, 
+                    "duration": 0, 
+                    "estimate": "$8", 
+                    "high_estimate": 8, 
+                    "localized_display_name": "uberXL", 
+                    "low_estimate": 8, 
+                    "minimum": 8, 
+                    "product_id": "821415d8-3bd5-4e27-9604-194e4359a449", 
+                    "surge_multiplier": 1.0
+                }, 
+                {
+                    "currency_code": "USD", 
+                    "display_name": "uberSELECT", 
+                    "distance": 0.0, 
+                    "duration": 0, 
+                    "estimate": "$13-14", 
+                    "high_estimate": 14, 
+                    "localized_display_name": "uberSELECT", 
+                    "low_estimate": 13, 
+                    "minimum": 10, 
+                    "product_id": "57c0ff4e-1493-4ef9-a4df-6b961525cf92", 
+                    "surge_multiplier": 1.4
+                }, 
+                {
+                    "currency_code": "USD", 
+                    "display_name": "UberBLACK", 
+                    "distance": 0.0, 
+                    "duration": 0, 
+                    "estimate": "$15", 
+                    "high_estimate": 15, 
+                    "localized_display_name": "UberBLACK", 
+                    "low_estimate": 15, 
+                    "minimum": 15, 
+                    "product_id": "d4abaae7-f4d6-4152-91cc-77523e8165a4", 
+                    "surge_multiplier": 1.0
+                }, 
+                {
+                    "currency_code": "USD", 
+                    "display_name": "UberSUV", 
+                    "distance": 0.0, 
+                    "duration": 0, 
+                    "estimate": "$25", 
+                    "high_estimate": 25, 
+                    "localized_display_name": "UberSUV", 
+                    "low_estimate": 25, 
+                    "minimum": 25, 
+                    "product_id": "8920cb5e-51a4-4fa4-acdf-dd86c5e18ae0", 
+                    "surge_multiplier": 1.0
+                }, 
+                {
+                    "currency_code": "USD", 
+                    "display_name": "ASSIST", 
+                    "distance": 0.0, 
+                    "duration": 0, 
+                    "estimate": "$6-7", 
+                    "high_estimate": 7, 
+                    "localized_display_name": "ASSIST", 
+                    "low_estimate": 6, 
+                    "minimum": 5, 
+                    "product_id": "ff5ed8fe-6585-4803-be13-3ca541235de3", 
+                    "surge_multiplier": 1.4
+                }, 
+                {
+                    "currency_code": "USD", 
+                    "display_name": "uberWAV", 
+                    "distance": 0.0, 
+                    "duration": 0, 
+                    "estimate": "$10-11", 
+                    "high_estimate": 11, 
+                    "localized_display_name": "uberWAV", 
+                    "low_estimate": 10, 
+                    "minimum": 8, 
+                    "product_id": "2832a1f5-cfc0-48bb-ab76-7ea7a62060e7", 
+                    "surge_multiplier": 1.4
+                }, 
+                {
+                    "currency_code": null, 
+                    "display_name": "uberTAXI", 
+                    "distance": 0.0, 
+                    "duration": 0, 
+                    "estimate": "Metered", 
+                    "high_estimate": null, 
+                    "localized_display_name": "uberTAXI", 
+                    "low_estimate": null, 
+                    "minimum": null, 
+                    "product_id": "3ab64887-4842-4c8e-9780-ccecd3a0391d", 
+                    "surge_multiplier": 1.0
+                }
+            ]
+        }, 
+        {
+            "latitude": "37.789843", 
+            "longitude": "-122.414778", 
+            "prices": [
+                {
+                    "currency_code": "USD", 
+                    "display_name": "uberX", 
+                    "distance": 0.0, 
+                    "duration": 0, 
+                    "estimate": "$6-7", 
+                    "high_estimate": 7, 
+                    "localized_display_name": "uberX", 
+                    "low_estimate": 6, 
+                    "minimum": 5, 
+                    "product_id": "a1111c8c-c720-46c3-8534-2fcdd730040d", 
+                    "surge_multiplier": 1.4
+                }, 
+                {
+                    "currency_code": "USD", 
+                    "display_name": "uberXL", 
+                    "distance": 0.0, 
+                    "duration": 0, 
+                    "estimate": "$8", 
+                    "high_estimate": 8, 
+                    "localized_display_name": "uberXL", 
+                    "low_estimate": 8, 
+                    "minimum": 8, 
+                    "product_id": "821415d8-3bd5-4e27-9604-194e4359a449", 
+                    "surge_multiplier": 1.0
+                }, 
+                {
+                    "currency_code": "USD", 
+                    "display_name": "uberSELECT", 
+                    "distance": 0.0, 
+                    "duration": 0, 
+                    "estimate": "$13-14", 
+                    "high_estimate": 14, 
+                    "localized_display_name": "uberSELECT", 
+                    "low_estimate": 13, 
+                    "minimum": 10, 
+                    "product_id": "57c0ff4e-1493-4ef9-a4df-6b961525cf92", 
+                    "surge_multiplier": 1.4
+                }, 
+                {
+                    "currency_code": "USD", 
+                    "display_name": "UberBLACK", 
+                    "distance": 0.0, 
+                    "duration": 0, 
+                    "estimate": "$15", 
+                    "high_estimate": 15, 
+                    "localized_display_name": "UberBLACK", 
+                    "low_estimate": 15, 
+                    "minimum": 15, 
+                    "product_id": "d4abaae7-f4d6-4152-91cc-77523e8165a4", 
+                    "surge_multiplier": 1.0
+                }, 
+                {
+                    "currency_code": "USD", 
+                    "display_name": "UberSUV", 
+                    "distance": 0.0, 
+                    "duration": 0, 
+                    "estimate": "$25", 
+                    "high_estimate": 25, 
+                    "localized_display_name": "UberSUV", 
+                    "low_estimate": 25, 
+                    "minimum": 25, 
+                    "product_id": "8920cb5e-51a4-4fa4-acdf-dd86c5e18ae0", 
+                    "surge_multiplier": 1.0
+                }, 
+                {
+                    "currency_code": "USD", 
+                    "display_name": "ASSIST", 
+                    "distance": 0.0, 
+                    "duration": 0, 
+                    "estimate": "$6-7", 
+                    "high_estimate": 7, 
+                    "localized_display_name": "ASSIST", 
+                    "low_estimate": 6, 
+                    "minimum": 5, 
+                    "product_id": "ff5ed8fe-6585-4803-be13-3ca541235de3", 
+                    "surge_multiplier": 1.4
+                }, 
+                {
+                    "currency_code": "USD", 
+                    "display_name": "uberWAV", 
+                    "distance": 0.0, 
+                    "duration": 0, 
+                    "estimate": "$10-11", 
+                    "high_estimate": 11, 
+                    "localized_display_name": "uberWAV", 
+                    "low_estimate": 10, 
+                    "minimum": 8, 
+                    "product_id": "2832a1f5-cfc0-48bb-ab76-7ea7a62060e7", 
+                    "surge_multiplier": 1.4
+                }, 
+                {
+                    "currency_code": null, 
+                    "display_name": "uberTAXI", 
+                    "distance": 0.0, 
+                    "duration": 0, 
+                    "estimate": "Metered", 
+                    "high_estimate": null, 
+                    "localized_display_name": "uberTAXI", 
+                    "low_estimate": null, 
+                    "minimum": null, 
+                    "product_id": "3ab64887-4842-4c8e-9780-ccecd3a0391d", 
+                    "surge_multiplier": 1.0
+                }
+            ]
+        }
+    ], 
+    "timestamp": "1444524718.83"
+}

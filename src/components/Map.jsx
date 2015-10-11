@@ -1,7 +1,11 @@
 import React from 'react';
 import Component from 'Component';
+import SettingStore from 'stores/SettingStore';
+import DataStore from 'stores/DataStore';
 
 export default class Map extends Component{
+
+  static stores=[SettingStore]
 
   constructor() {
     super();
@@ -15,21 +19,26 @@ export default class Map extends Component{
     this.defaultLayers = this.platform.createDefaultLayers();
   }
 
+  syncState() {
+    return {
+      bounds: SettingStore.getBounds()
+    }
+  }
+
   setMapViewBounds(map) {
-    var bbox = new H.geo.Rect(37.810899, -122.527192, 37.718520, -122.358332);
+    let bounds = this.state.bounds;
+    var bbox = new H.geo.Rect(bounds.topLeft.latitude, bounds.topLeft.longitude, bounds.bottomRight.latitude, bounds.bottomRight.longitude);
     map.setViewBounds(bbox);
   }
 
   componentDidMount() {
     this.map = new H.Map(this.refs.map.getDOMNode(), this.defaultLayers.normal.map);
-    this.behavior = new H.mapevents.Behavior(new H.mapevents.MapEvents(this.map));
-    this.ui = H.ui.UI.createDefault(this.map, this.defaultLayers);
     this.setMapViewBounds(this.map);
   }
 
   render() {
     return (
-      <div ref="map" style={{width: '400px', height: '400px', background: 'grey'}}/>
+      <div ref="map" style={{width: '100%', height: '100%', background: 'grey'}}/>
     );
   }
 

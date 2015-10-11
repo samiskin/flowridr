@@ -1,0 +1,3805 @@
+{
+    "timestamp": 1444530417565, 
+    "data": [
+        {
+            "prices": [
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "uberX"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "uberXL"
+                }, 
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "uberSELECT"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "UberBLACK"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "UberSUV"
+                }, 
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "ASSIST"
+                }, 
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "uberWAV"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "uberTAXI"
+                }
+            ], 
+            "latitude": "37.772038", 
+            "longitude": "-122.417023"
+        }, 
+        {
+            "prices": [
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "uberX"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "uberXL"
+                }, 
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "uberSELECT"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "UberBLACK"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "UberSUV"
+                }, 
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "ASSIST"
+                }, 
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "uberWAV"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "uberTAXI"
+                }
+            ], 
+            "latitude": "37.773839", 
+            "longitude": "-122.417023"
+        }, 
+        {
+            "prices": [
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "uberX"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "uberXL"
+                }, 
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "uberSELECT"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "UberBLACK"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "UberSUV"
+                }, 
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "ASSIST"
+                }, 
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "uberWAV"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "uberTAXI"
+                }
+            ], 
+            "latitude": "37.775641", 
+            "longitude": "-122.417023"
+        }, 
+        {
+            "prices": [
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "uberX"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "uberXL"
+                }, 
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "uberSELECT"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "UberBLACK"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "UberSUV"
+                }, 
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "ASSIST"
+                }, 
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "uberWAV"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "uberTAXI"
+                }
+            ], 
+            "latitude": "37.777442", 
+            "longitude": "-122.417023"
+        }, 
+        {
+            "prices": [
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "uberX"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "uberXL"
+                }, 
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "uberSELECT"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "UberBLACK"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "UberSUV"
+                }, 
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "ASSIST"
+                }, 
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "uberWAV"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "uberTAXI"
+                }
+            ], 
+            "latitude": "37.779244", 
+            "longitude": "-122.417023"
+        }, 
+        {
+            "prices": [
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "uberX"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "uberXL"
+                }, 
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "uberSELECT"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "UberBLACK"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "UberSUV"
+                }, 
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "ASSIST"
+                }, 
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "uberWAV"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "uberTAXI"
+                }
+            ], 
+            "latitude": "37.781046", 
+            "longitude": "-122.417023"
+        }, 
+        {
+            "prices": [
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "uberX"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "uberXL"
+                }, 
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "uberSELECT"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "UberBLACK"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "UberSUV"
+                }, 
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "ASSIST"
+                }, 
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "uberWAV"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "uberTAXI"
+                }
+            ], 
+            "latitude": "37.782847", 
+            "longitude": "-122.417023"
+        }, 
+        {
+            "prices": [
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "uberX"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "uberXL"
+                }, 
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "uberSELECT"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "UberBLACK"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "UberSUV"
+                }, 
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "ASSIST"
+                }, 
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "uberWAV"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "uberTAXI"
+                }
+            ], 
+            "latitude": "37.784649", 
+            "longitude": "-122.417023"
+        }, 
+        {
+            "prices": [
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "uberX"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "uberXL"
+                }, 
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "uberSELECT"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "UberBLACK"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "UberSUV"
+                }, 
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "ASSIST"
+                }, 
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "uberWAV"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "uberTAXI"
+                }
+            ], 
+            "latitude": "37.786450", 
+            "longitude": "-122.417023"
+        }, 
+        {
+            "prices": [
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "uberX"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "uberXL"
+                }, 
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "uberSELECT"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "UberBLACK"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "UberSUV"
+                }, 
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "ASSIST"
+                }, 
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "uberWAV"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "uberTAXI"
+                }
+            ], 
+            "latitude": "37.788252", 
+            "longitude": "-122.417023"
+        }, 
+        {
+            "prices": [
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "uberX"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "uberXL"
+                }, 
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "uberSELECT"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "UberBLACK"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "UberSUV"
+                }, 
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "ASSIST"
+                }, 
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "uberWAV"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "uberTAXI"
+                }
+            ], 
+            "latitude": "37.772038", 
+            "longitude": "-122.414392"
+        }, 
+        {
+            "prices": [
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "uberX"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "uberXL"
+                }, 
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "uberSELECT"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "UberBLACK"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "UberSUV"
+                }, 
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "ASSIST"
+                }, 
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "uberWAV"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "uberTAXI"
+                }
+            ], 
+            "latitude": "37.773839", 
+            "longitude": "-122.414392"
+        }, 
+        {
+            "prices": [
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "uberX"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "uberXL"
+                }, 
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "uberSELECT"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "UberBLACK"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "UberSUV"
+                }, 
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "ASSIST"
+                }, 
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "uberWAV"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "uberTAXI"
+                }
+            ], 
+            "latitude": "37.775641", 
+            "longitude": "-122.414392"
+        }, 
+        {
+            "prices": [
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "uberX"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "uberXL"
+                }, 
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "uberSELECT"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "UberBLACK"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "UberSUV"
+                }, 
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "ASSIST"
+                }, 
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "uberWAV"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "uberTAXI"
+                }
+            ], 
+            "latitude": "37.777442", 
+            "longitude": "-122.414392"
+        }, 
+        {
+            "prices": [
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "uberX"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "uberXL"
+                }, 
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "uberSELECT"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "UberBLACK"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "UberSUV"
+                }, 
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "ASSIST"
+                }, 
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "uberWAV"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "uberTAXI"
+                }
+            ], 
+            "latitude": "37.779244", 
+            "longitude": "-122.414392"
+        }, 
+        {
+            "prices": [
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "uberX"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "uberXL"
+                }, 
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "uberSELECT"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "UberBLACK"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "UberSUV"
+                }, 
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "ASSIST"
+                }, 
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "uberWAV"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "uberTAXI"
+                }
+            ], 
+            "latitude": "37.781046", 
+            "longitude": "-122.414392"
+        }, 
+        {
+            "prices": [
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "uberX"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "uberXL"
+                }, 
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "uberSELECT"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "UberBLACK"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "UberSUV"
+                }, 
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "ASSIST"
+                }, 
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "uberWAV"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "uberTAXI"
+                }
+            ], 
+            "latitude": "37.782847", 
+            "longitude": "-122.414392"
+        }, 
+        {
+            "prices": [
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "uberX"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "uberXL"
+                }, 
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "uberSELECT"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "UberBLACK"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "UberSUV"
+                }, 
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "ASSIST"
+                }, 
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "uberWAV"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "uberTAXI"
+                }
+            ], 
+            "latitude": "37.784649", 
+            "longitude": "-122.414392"
+        }, 
+        {
+            "prices": [
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "uberX"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "uberXL"
+                }, 
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "uberSELECT"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "UberBLACK"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "UberSUV"
+                }, 
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "ASSIST"
+                }, 
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "uberWAV"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "uberTAXI"
+                }
+            ], 
+            "latitude": "37.786450", 
+            "longitude": "-122.414392"
+        }, 
+        {
+            "prices": [
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "uberX"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "uberXL"
+                }, 
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "uberSELECT"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "UberBLACK"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "UberSUV"
+                }, 
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "ASSIST"
+                }, 
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "uberWAV"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "uberTAXI"
+                }
+            ], 
+            "latitude": "37.788252", 
+            "longitude": "-122.414392"
+        }, 
+        {
+            "prices": [
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "uberX"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "uberXL"
+                }, 
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "uberSELECT"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "UberBLACK"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "UberSUV"
+                }, 
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "ASSIST"
+                }, 
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "uberWAV"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "uberTAXI"
+                }
+            ], 
+            "latitude": "37.772038", 
+            "longitude": "-122.411761"
+        }, 
+        {
+            "prices": [
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "uberX"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "uberXL"
+                }, 
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "uberSELECT"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "UberBLACK"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "UberSUV"
+                }, 
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "ASSIST"
+                }, 
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "uberWAV"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "uberTAXI"
+                }
+            ], 
+            "latitude": "37.773839", 
+            "longitude": "-122.411761"
+        }, 
+        {
+            "prices": [
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "uberX"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "uberXL"
+                }, 
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "uberSELECT"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "UberBLACK"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "UberSUV"
+                }, 
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "ASSIST"
+                }, 
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "uberWAV"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "uberTAXI"
+                }
+            ], 
+            "latitude": "37.775641", 
+            "longitude": "-122.411761"
+        }, 
+        {
+            "prices": [
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "uberX"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "uberXL"
+                }, 
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "uberSELECT"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "UberBLACK"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "UberSUV"
+                }, 
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "ASSIST"
+                }, 
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "uberWAV"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "uberTAXI"
+                }
+            ], 
+            "latitude": "37.777442", 
+            "longitude": "-122.411761"
+        }, 
+        {
+            "prices": [
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "uberX"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "uberXL"
+                }, 
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "uberSELECT"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "UberBLACK"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "UberSUV"
+                }, 
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "ASSIST"
+                }, 
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "uberWAV"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "uberTAXI"
+                }
+            ], 
+            "latitude": "37.779244", 
+            "longitude": "-122.411761"
+        }, 
+        {
+            "prices": [
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "uberX"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "uberXL"
+                }, 
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "uberSELECT"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "UberBLACK"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "UberSUV"
+                }, 
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "ASSIST"
+                }, 
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "uberWAV"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "uberTAXI"
+                }
+            ], 
+            "latitude": "37.781046", 
+            "longitude": "-122.411761"
+        }, 
+        {
+            "prices": [
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "uberX"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "uberXL"
+                }, 
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "uberSELECT"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "UberBLACK"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "UberSUV"
+                }, 
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "ASSIST"
+                }, 
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "uberWAV"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "uberTAXI"
+                }
+            ], 
+            "latitude": "37.782847", 
+            "longitude": "-122.411761"
+        }, 
+        {
+            "prices": [
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "uberX"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "uberXL"
+                }, 
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "uberSELECT"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "UberBLACK"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "UberSUV"
+                }, 
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "ASSIST"
+                }, 
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "uberWAV"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "uberTAXI"
+                }
+            ], 
+            "latitude": "37.784649", 
+            "longitude": "-122.411761"
+        }, 
+        {
+            "prices": [
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "uberX"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "uberXL"
+                }, 
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "uberSELECT"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "UberBLACK"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "UberSUV"
+                }, 
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "ASSIST"
+                }, 
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "uberWAV"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "uberTAXI"
+                }
+            ], 
+            "latitude": "37.786450", 
+            "longitude": "-122.411761"
+        }, 
+        {
+            "prices": [
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "uberX"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "uberXL"
+                }, 
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "uberSELECT"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "UberBLACK"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "UberSUV"
+                }, 
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "ASSIST"
+                }, 
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "uberWAV"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "uberTAXI"
+                }
+            ], 
+            "latitude": "37.788252", 
+            "longitude": "-122.411761"
+        }, 
+        {
+            "prices": [
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "uberX"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "uberXL"
+                }, 
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "uberSELECT"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "UberBLACK"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "UberSUV"
+                }, 
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "ASSIST"
+                }, 
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "uberWAV"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "uberTAXI"
+                }
+            ], 
+            "latitude": "37.772038", 
+            "longitude": "-122.40913"
+        }, 
+        {
+            "prices": [
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "uberX"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "uberXL"
+                }, 
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "uberSELECT"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "UberBLACK"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "UberSUV"
+                }, 
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "ASSIST"
+                }, 
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "uberWAV"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "uberTAXI"
+                }
+            ], 
+            "latitude": "37.773839", 
+            "longitude": "-122.40913"
+        }, 
+        {
+            "prices": [
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "uberX"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "uberXL"
+                }, 
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "uberSELECT"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "UberBLACK"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "UberSUV"
+                }, 
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "ASSIST"
+                }, 
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "uberWAV"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "uberTAXI"
+                }
+            ], 
+            "latitude": "37.775641", 
+            "longitude": "-122.40913"
+        }, 
+        {
+            "prices": [
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "uberX"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "uberXL"
+                }, 
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "uberSELECT"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "UberBLACK"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "UberSUV"
+                }, 
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "ASSIST"
+                }, 
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "uberWAV"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "uberTAXI"
+                }
+            ], 
+            "latitude": "37.777442", 
+            "longitude": "-122.40913"
+        }, 
+        {
+            "prices": [
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "uberX"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "uberXL"
+                }, 
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "uberSELECT"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "UberBLACK"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "UberSUV"
+                }, 
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "ASSIST"
+                }, 
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "uberWAV"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "uberTAXI"
+                }
+            ], 
+            "latitude": "37.779244", 
+            "longitude": "-122.40913"
+        }, 
+        {
+            "prices": [
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "uberX"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "uberXL"
+                }, 
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "uberSELECT"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "UberBLACK"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "UberSUV"
+                }, 
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "ASSIST"
+                }, 
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "uberWAV"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "uberTAXI"
+                }
+            ], 
+            "latitude": "37.781046", 
+            "longitude": "-122.40913"
+        }, 
+        {
+            "prices": [
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "uberX"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "uberXL"
+                }, 
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "uberSELECT"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "UberBLACK"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "UberSUV"
+                }, 
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "ASSIST"
+                }, 
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "uberWAV"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "uberTAXI"
+                }
+            ], 
+            "latitude": "37.782847", 
+            "longitude": "-122.40913"
+        }, 
+        {
+            "prices": [
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "uberX"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "uberXL"
+                }, 
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "uberSELECT"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "UberBLACK"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "UberSUV"
+                }, 
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "ASSIST"
+                }, 
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "uberWAV"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "uberTAXI"
+                }
+            ], 
+            "latitude": "37.784649", 
+            "longitude": "-122.40913"
+        }, 
+        {
+            "prices": [
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "uberX"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "uberXL"
+                }, 
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "uberSELECT"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "UberBLACK"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "UberSUV"
+                }, 
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "ASSIST"
+                }, 
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "uberWAV"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "uberTAXI"
+                }
+            ], 
+            "latitude": "37.786450", 
+            "longitude": "-122.40913"
+        }, 
+        {
+            "prices": [
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "uberX"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "uberXL"
+                }, 
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "uberSELECT"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "UberBLACK"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "UberSUV"
+                }, 
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "ASSIST"
+                }, 
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "uberWAV"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "uberTAXI"
+                }
+            ], 
+            "latitude": "37.788252", 
+            "longitude": "-122.40913"
+        }, 
+        {
+            "prices": [
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "uberX"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "uberXL"
+                }, 
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "uberSELECT"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "UberBLACK"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "UberSUV"
+                }, 
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "ASSIST"
+                }, 
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "uberWAV"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "uberTAXI"
+                }
+            ], 
+            "latitude": "37.772038", 
+            "longitude": "-122.406499"
+        }, 
+        {
+            "prices": [
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "uberX"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "uberXL"
+                }, 
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "uberSELECT"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "UberBLACK"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "UberSUV"
+                }, 
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "ASSIST"
+                }, 
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "uberWAV"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "uberTAXI"
+                }
+            ], 
+            "latitude": "37.773839", 
+            "longitude": "-122.406499"
+        }, 
+        {
+            "prices": [
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "uberX"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "uberXL"
+                }, 
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "uberSELECT"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "UberBLACK"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "UberSUV"
+                }, 
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "ASSIST"
+                }, 
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "uberWAV"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "uberTAXI"
+                }
+            ], 
+            "latitude": "37.775641", 
+            "longitude": "-122.406499"
+        }, 
+        {
+            "prices": [
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "uberX"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "uberXL"
+                }, 
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "uberSELECT"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "UberBLACK"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "UberSUV"
+                }, 
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "ASSIST"
+                }, 
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "uberWAV"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "uberTAXI"
+                }
+            ], 
+            "latitude": "37.777442", 
+            "longitude": "-122.406499"
+        }, 
+        {
+            "prices": [
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "uberX"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "uberXL"
+                }, 
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "uberSELECT"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "UberBLACK"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "UberSUV"
+                }, 
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "ASSIST"
+                }, 
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "uberWAV"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "uberTAXI"
+                }
+            ], 
+            "latitude": "37.779244", 
+            "longitude": "-122.406499"
+        }, 
+        {
+            "prices": [
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "uberX"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "uberXL"
+                }, 
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "uberSELECT"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "UberBLACK"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "UberSUV"
+                }, 
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "ASSIST"
+                }, 
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "uberWAV"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "uberTAXI"
+                }
+            ], 
+            "latitude": "37.781046", 
+            "longitude": "-122.406499"
+        }, 
+        {
+            "prices": [
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "uberX"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "uberXL"
+                }, 
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "uberSELECT"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "UberBLACK"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "UberSUV"
+                }, 
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "ASSIST"
+                }, 
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "uberWAV"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "uberTAXI"
+                }
+            ], 
+            "latitude": "37.782847", 
+            "longitude": "-122.406499"
+        }, 
+        {
+            "prices": [
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "uberX"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "uberXL"
+                }, 
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "uberSELECT"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "UberBLACK"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "UberSUV"
+                }, 
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "ASSIST"
+                }, 
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "uberWAV"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "uberTAXI"
+                }
+            ], 
+            "latitude": "37.784649", 
+            "longitude": "-122.406499"
+        }, 
+        {
+            "prices": [
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "uberX"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "uberXL"
+                }, 
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "uberSELECT"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "UberBLACK"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "UberSUV"
+                }, 
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "ASSIST"
+                }, 
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "uberWAV"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "uberTAXI"
+                }
+            ], 
+            "latitude": "37.786450", 
+            "longitude": "-122.406499"
+        }, 
+        {
+            "prices": [
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "uberX"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "uberXL"
+                }, 
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "uberSELECT"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "UberBLACK"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "UberSUV"
+                }, 
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "ASSIST"
+                }, 
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "uberWAV"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "uberTAXI"
+                }
+            ], 
+            "latitude": "37.788252", 
+            "longitude": "-122.406499"
+        }, 
+        {
+            "prices": [
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "uberX"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "uberXL"
+                }, 
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "uberSELECT"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "UberBLACK"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "UberSUV"
+                }, 
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "ASSIST"
+                }, 
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "uberWAV"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "uberTAXI"
+                }
+            ], 
+            "latitude": "37.772038", 
+            "longitude": "-122.403868"
+        }, 
+        {
+            "prices": [
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "uberX"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "uberXL"
+                }, 
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "uberSELECT"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "UberBLACK"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "UberSUV"
+                }, 
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "ASSIST"
+                }, 
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "uberWAV"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "uberTAXI"
+                }
+            ], 
+            "latitude": "37.773839", 
+            "longitude": "-122.403868"
+        }, 
+        {
+            "prices": [
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "uberX"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "uberXL"
+                }, 
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "uberSELECT"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "UberBLACK"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "UberSUV"
+                }, 
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "ASSIST"
+                }, 
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "uberWAV"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "uberTAXI"
+                }
+            ], 
+            "latitude": "37.775641", 
+            "longitude": "-122.403868"
+        }, 
+        {
+            "prices": [
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "uberX"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "uberXL"
+                }, 
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "uberSELECT"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "UberBLACK"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "UberSUV"
+                }, 
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "ASSIST"
+                }, 
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "uberWAV"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "uberTAXI"
+                }
+            ], 
+            "latitude": "37.777442", 
+            "longitude": "-122.403868"
+        }, 
+        {
+            "prices": [
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "uberX"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "uberXL"
+                }, 
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "uberSELECT"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "UberBLACK"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "UberSUV"
+                }, 
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "ASSIST"
+                }, 
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "uberWAV"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "uberTAXI"
+                }
+            ], 
+            "latitude": "37.779244", 
+            "longitude": "-122.403868"
+        }, 
+        {
+            "prices": [
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "uberX"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "uberXL"
+                }, 
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "uberSELECT"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "UberBLACK"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "UberSUV"
+                }, 
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "ASSIST"
+                }, 
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "uberWAV"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "uberTAXI"
+                }
+            ], 
+            "latitude": "37.781046", 
+            "longitude": "-122.403868"
+        }, 
+        {
+            "prices": [
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "uberX"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "uberXL"
+                }, 
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "uberSELECT"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "UberBLACK"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "UberSUV"
+                }, 
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "ASSIST"
+                }, 
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "uberWAV"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "uberTAXI"
+                }
+            ], 
+            "latitude": "37.782847", 
+            "longitude": "-122.403868"
+        }, 
+        {
+            "prices": [
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "uberX"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "uberXL"
+                }, 
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "uberSELECT"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "UberBLACK"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "UberSUV"
+                }, 
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "ASSIST"
+                }, 
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "uberWAV"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "uberTAXI"
+                }
+            ], 
+            "latitude": "37.784649", 
+            "longitude": "-122.403868"
+        }, 
+        {
+            "prices": [
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "uberX"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "uberXL"
+                }, 
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "uberSELECT"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "UberBLACK"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "UberSUV"
+                }, 
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "ASSIST"
+                }, 
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "uberWAV"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "uberTAXI"
+                }
+            ], 
+            "latitude": "37.786450", 
+            "longitude": "-122.403868"
+        }, 
+        {
+            "prices": [
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "uberX"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "uberXL"
+                }, 
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "uberSELECT"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "UberBLACK"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "UberSUV"
+                }, 
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "ASSIST"
+                }, 
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "uberWAV"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "uberTAXI"
+                }
+            ], 
+            "latitude": "37.788252", 
+            "longitude": "-122.403868"
+        }, 
+        {
+            "prices": [
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "uberX"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "uberXL"
+                }, 
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "uberSELECT"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "UberBLACK"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "UberSUV"
+                }, 
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "ASSIST"
+                }, 
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "uberWAV"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "uberTAXI"
+                }
+            ], 
+            "latitude": "37.772038", 
+            "longitude": "-122.401237"
+        }, 
+        {
+            "prices": [
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "uberX"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "uberXL"
+                }, 
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "uberSELECT"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "UberBLACK"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "UberSUV"
+                }, 
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "ASSIST"
+                }, 
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "uberWAV"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "uberTAXI"
+                }
+            ], 
+            "latitude": "37.773839", 
+            "longitude": "-122.401237"
+        }, 
+        {
+            "prices": [
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "uberX"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "uberXL"
+                }, 
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "uberSELECT"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "UberBLACK"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "UberSUV"
+                }, 
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "ASSIST"
+                }, 
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "uberWAV"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "uberTAXI"
+                }
+            ], 
+            "latitude": "37.775641", 
+            "longitude": "-122.401237"
+        }, 
+        {
+            "prices": [
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "uberX"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "uberXL"
+                }, 
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "uberSELECT"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "UberBLACK"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "UberSUV"
+                }, 
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "ASSIST"
+                }, 
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "uberWAV"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "uberTAXI"
+                }
+            ], 
+            "latitude": "37.777442", 
+            "longitude": "-122.401237"
+        }, 
+        {
+            "prices": [
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "uberX"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "uberXL"
+                }, 
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "uberSELECT"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "UberBLACK"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "UberSUV"
+                }, 
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "ASSIST"
+                }, 
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "uberWAV"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "uberTAXI"
+                }
+            ], 
+            "latitude": "37.779244", 
+            "longitude": "-122.401237"
+        }, 
+        {
+            "prices": [
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "uberX"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "uberXL"
+                }, 
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "uberSELECT"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "UberBLACK"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "UberSUV"
+                }, 
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "ASSIST"
+                }, 
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "uberWAV"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "uberTAXI"
+                }
+            ], 
+            "latitude": "37.781046", 
+            "longitude": "-122.401237"
+        }, 
+        {
+            "prices": [
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "uberX"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "uberXL"
+                }, 
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "uberSELECT"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "UberBLACK"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "UberSUV"
+                }, 
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "ASSIST"
+                }, 
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "uberWAV"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "uberTAXI"
+                }
+            ], 
+            "latitude": "37.782847", 
+            "longitude": "-122.401237"
+        }, 
+        {
+            "prices": [
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "uberX"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "uberXL"
+                }, 
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "uberSELECT"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "UberBLACK"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "UberSUV"
+                }, 
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "ASSIST"
+                }, 
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "uberWAV"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "uberTAXI"
+                }
+            ], 
+            "latitude": "37.784649", 
+            "longitude": "-122.401237"
+        }, 
+        {
+            "prices": [
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "uberX"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "uberXL"
+                }, 
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "uberSELECT"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "UberBLACK"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "UberSUV"
+                }, 
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "ASSIST"
+                }, 
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "uberWAV"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "uberTAXI"
+                }
+            ], 
+            "latitude": "37.786450", 
+            "longitude": "-122.401237"
+        }, 
+        {
+            "prices": [
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "uberX"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "uberXL"
+                }, 
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "uberSELECT"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "UberBLACK"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "UberSUV"
+                }, 
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "ASSIST"
+                }, 
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "uberWAV"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "uberTAXI"
+                }
+            ], 
+            "latitude": "37.788252", 
+            "longitude": "-122.401237"
+        }, 
+        {
+            "prices": [
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "uberX"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "uberXL"
+                }, 
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "uberSELECT"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "UberBLACK"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "UberSUV"
+                }, 
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "ASSIST"
+                }, 
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "uberWAV"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "uberTAXI"
+                }
+            ], 
+            "latitude": "37.772038", 
+            "longitude": "-122.398606"
+        }, 
+        {
+            "prices": [
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "uberX"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "uberXL"
+                }, 
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "uberSELECT"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "UberBLACK"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "UberSUV"
+                }, 
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "ASSIST"
+                }, 
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "uberWAV"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "uberTAXI"
+                }
+            ], 
+            "latitude": "37.773839", 
+            "longitude": "-122.398606"
+        }, 
+        {
+            "prices": [
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "uberX"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "uberXL"
+                }, 
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "uberSELECT"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "UberBLACK"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "UberSUV"
+                }, 
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "ASSIST"
+                }, 
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "uberWAV"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "uberTAXI"
+                }
+            ], 
+            "latitude": "37.775641", 
+            "longitude": "-122.398606"
+        }, 
+        {
+            "prices": [
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "uberX"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "uberXL"
+                }, 
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "uberSELECT"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "UberBLACK"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "UberSUV"
+                }, 
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "ASSIST"
+                }, 
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "uberWAV"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "uberTAXI"
+                }
+            ], 
+            "latitude": "37.777442", 
+            "longitude": "-122.398606"
+        }, 
+        {
+            "prices": [
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "uberX"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "uberXL"
+                }, 
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "uberSELECT"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "UberBLACK"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "UberSUV"
+                }, 
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "ASSIST"
+                }, 
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "uberWAV"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "uberTAXI"
+                }
+            ], 
+            "latitude": "37.779244", 
+            "longitude": "-122.398606"
+        }, 
+        {
+            "prices": [
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "uberX"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "uberXL"
+                }, 
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "uberSELECT"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "UberBLACK"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "UberSUV"
+                }, 
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "ASSIST"
+                }, 
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "uberWAV"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "uberTAXI"
+                }
+            ], 
+            "latitude": "37.781046", 
+            "longitude": "-122.398606"
+        }, 
+        {
+            "prices": [
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "uberX"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "uberXL"
+                }, 
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "uberSELECT"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "UberBLACK"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "UberSUV"
+                }, 
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "ASSIST"
+                }, 
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "uberWAV"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "uberTAXI"
+                }
+            ], 
+            "latitude": "37.782847", 
+            "longitude": "-122.398606"
+        }, 
+        {
+            "prices": [
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "uberX"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "uberXL"
+                }, 
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "uberSELECT"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "UberBLACK"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "UberSUV"
+                }, 
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "ASSIST"
+                }, 
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "uberWAV"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "uberTAXI"
+                }
+            ], 
+            "latitude": "37.784649", 
+            "longitude": "-122.398606"
+        }, 
+        {
+            "prices": [
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "uberX"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "uberXL"
+                }, 
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "uberSELECT"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "UberBLACK"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "UberSUV"
+                }, 
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "ASSIST"
+                }, 
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "uberWAV"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "uberTAXI"
+                }
+            ], 
+            "latitude": "37.786450", 
+            "longitude": "-122.398606"
+        }, 
+        {
+            "prices": [
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "uberX"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "uberXL"
+                }, 
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "uberSELECT"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "UberBLACK"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "UberSUV"
+                }, 
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "ASSIST"
+                }, 
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "uberWAV"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "uberTAXI"
+                }
+            ], 
+            "latitude": "37.788252", 
+            "longitude": "-122.398606"
+        }, 
+        {
+            "prices": [
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "uberX"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "uberXL"
+                }, 
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "uberSELECT"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "UberBLACK"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "UberSUV"
+                }, 
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "ASSIST"
+                }, 
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "uberWAV"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "uberTAXI"
+                }
+            ], 
+            "latitude": "37.772038", 
+            "longitude": "-122.395975"
+        }, 
+        {
+            "prices": [
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "uberX"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "uberXL"
+                }, 
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "uberSELECT"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "UberBLACK"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "UberSUV"
+                }, 
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "ASSIST"
+                }, 
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "uberWAV"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "uberTAXI"
+                }
+            ], 
+            "latitude": "37.773839", 
+            "longitude": "-122.395975"
+        }, 
+        {
+            "prices": [
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "uberX"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "uberXL"
+                }, 
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "uberSELECT"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "UberBLACK"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "UberSUV"
+                }, 
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "ASSIST"
+                }, 
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "uberWAV"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "uberTAXI"
+                }
+            ], 
+            "latitude": "37.775641", 
+            "longitude": "-122.395975"
+        }, 
+        {
+            "prices": [
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "uberX"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "uberXL"
+                }, 
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "uberSELECT"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "UberBLACK"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "UberSUV"
+                }, 
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "ASSIST"
+                }, 
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "uberWAV"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "uberTAXI"
+                }
+            ], 
+            "latitude": "37.777442", 
+            "longitude": "-122.395975"
+        }, 
+        {
+            "prices": [
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "uberX"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "uberXL"
+                }, 
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "uberSELECT"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "UberBLACK"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "UberSUV"
+                }, 
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "ASSIST"
+                }, 
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "uberWAV"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "uberTAXI"
+                }
+            ], 
+            "latitude": "37.779244", 
+            "longitude": "-122.395975"
+        }, 
+        {
+            "prices": [
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "uberX"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "uberXL"
+                }, 
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "uberSELECT"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "UberBLACK"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "UberSUV"
+                }, 
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "ASSIST"
+                }, 
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "uberWAV"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "uberTAXI"
+                }
+            ], 
+            "latitude": "37.781046", 
+            "longitude": "-122.395975"
+        }, 
+        {
+            "prices": [
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "uberX"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "uberXL"
+                }, 
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "uberSELECT"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "UberBLACK"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "UberSUV"
+                }, 
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "ASSIST"
+                }, 
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "uberWAV"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "uberTAXI"
+                }
+            ], 
+            "latitude": "37.782847", 
+            "longitude": "-122.395975"
+        }, 
+        {
+            "prices": [
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "uberX"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "uberXL"
+                }, 
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "uberSELECT"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "UberBLACK"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "UberSUV"
+                }, 
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "ASSIST"
+                }, 
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "uberWAV"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "uberTAXI"
+                }
+            ], 
+            "latitude": "37.784649", 
+            "longitude": "-122.395975"
+        }, 
+        {
+            "prices": [
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "uberX"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "uberXL"
+                }, 
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "uberSELECT"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "UberBLACK"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "UberSUV"
+                }, 
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "ASSIST"
+                }, 
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "uberWAV"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "uberTAXI"
+                }
+            ], 
+            "latitude": "37.786450", 
+            "longitude": "-122.395975"
+        }, 
+        {
+            "prices": [
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "uberX"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "uberXL"
+                }, 
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "uberSELECT"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "UberBLACK"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "UberSUV"
+                }, 
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "ASSIST"
+                }, 
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "uberWAV"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "uberTAXI"
+                }
+            ], 
+            "latitude": "37.788252", 
+            "longitude": "-122.395975"
+        }, 
+        {
+            "prices": [
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "uberX"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "uberXL"
+                }, 
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "uberSELECT"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "UberBLACK"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "UberSUV"
+                }, 
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "ASSIST"
+                }, 
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "uberWAV"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "uberTAXI"
+                }
+            ], 
+            "latitude": "37.772038", 
+            "longitude": "-122.393344"
+        }, 
+        {
+            "prices": [
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "uberX"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "uberXL"
+                }, 
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "uberSELECT"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "UberBLACK"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "UberSUV"
+                }, 
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "ASSIST"
+                }, 
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "uberWAV"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "uberTAXI"
+                }
+            ], 
+            "latitude": "37.773839", 
+            "longitude": "-122.393344"
+        }, 
+        {
+            "prices": [
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "uberX"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "uberXL"
+                }, 
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "uberSELECT"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "UberBLACK"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "UberSUV"
+                }, 
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "ASSIST"
+                }, 
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "uberWAV"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "uberTAXI"
+                }
+            ], 
+            "latitude": "37.775641", 
+            "longitude": "-122.393344"
+        }, 
+        {
+            "prices": [
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "uberX"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "uberXL"
+                }, 
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "uberSELECT"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "UberBLACK"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "UberSUV"
+                }, 
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "ASSIST"
+                }, 
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "uberWAV"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "uberTAXI"
+                }
+            ], 
+            "latitude": "37.777442", 
+            "longitude": "-122.393344"
+        }, 
+        {
+            "prices": [
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "uberX"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "uberXL"
+                }, 
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "uberSELECT"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "UberBLACK"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "UberSUV"
+                }, 
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "ASSIST"
+                }, 
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "uberWAV"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "uberTAXI"
+                }
+            ], 
+            "latitude": "37.779244", 
+            "longitude": "-122.393344"
+        }, 
+        {
+            "prices": [
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "uberX"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "uberXL"
+                }, 
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "uberSELECT"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "UberBLACK"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "UberSUV"
+                }, 
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "ASSIST"
+                }, 
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "uberWAV"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "uberTAXI"
+                }
+            ], 
+            "latitude": "37.781046", 
+            "longitude": "-122.393344"
+        }, 
+        {
+            "prices": [
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "uberX"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "uberXL"
+                }, 
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "uberSELECT"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "UberBLACK"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "UberSUV"
+                }, 
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "ASSIST"
+                }, 
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "uberWAV"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "uberTAXI"
+                }
+            ], 
+            "latitude": "37.782847", 
+            "longitude": "-122.393344"
+        }, 
+        {
+            "prices": [
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "uberX"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "uberXL"
+                }, 
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "uberSELECT"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "UberBLACK"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "UberSUV"
+                }, 
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "ASSIST"
+                }, 
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "uberWAV"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "uberTAXI"
+                }
+            ], 
+            "latitude": "37.784649", 
+            "longitude": "-122.393344"
+        }, 
+        {
+            "prices": [
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "uberX"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "uberXL"
+                }, 
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "uberSELECT"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "UberBLACK"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "UberSUV"
+                }, 
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "ASSIST"
+                }, 
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "uberWAV"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "uberTAXI"
+                }
+            ], 
+            "latitude": "37.786450", 
+            "longitude": "-122.393344"
+        }, 
+        {
+            "prices": [
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "uberX"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "uberXL"
+                }, 
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "uberSELECT"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "UberBLACK"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "UberSUV"
+                }, 
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "ASSIST"
+                }, 
+                {
+                    "surge_multiplier": 2.0, 
+                    "display_name": "uberWAV"
+                }, 
+                {
+                    "surge_multiplier": 1.0, 
+                    "display_name": "uberTAXI"
+                }
+            ], 
+            "latitude": "37.788252", 
+            "longitude": "-122.393344"
+        }
+    ]
+}

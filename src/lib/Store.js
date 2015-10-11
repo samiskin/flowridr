@@ -10,7 +10,7 @@ class Store extends EventEmitter {
    update(payload) {
    }
 
-   emitChange() {
+   notify() {
      this.emit('change');
    }
 

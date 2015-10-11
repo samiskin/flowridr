@@ -1,4 +1,3 @@
-'use strict';
 
 var path = require('path');
 var webpack = require('webpack');
@@ -36,7 +35,7 @@ module.exports = {
   module: {
     loaders: [
       {test: /\.jsx?$/, loaders: ['react-hot', 'babel?cacheDirectory&blacklist[]=validation.react&optional[]=es7.classProperties'], exclude: /node_modules/},
-      {test: /\.json$/, loaders: ['json']},
+      {test: /\.json$/, loaders: ['json-loader']},
       {test: /\.scss$/, loaders: ['style', 'css', 'postcss', 'sass']},
       {test: /\.css$/, loaders: ['style', 'css', 'postcss']}
     ]

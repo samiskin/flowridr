@@ -4,8 +4,10 @@ export default class Component extends React.Component {
 
   static stores = []
 
-  constructor() {
-    super();
+  constructor(props) {
+    super(props);
+    this.state = this.syncState() || {};
+
     this.constructor.stores.forEach(store => {
       store.subscribe(this._update.bind(this));
     });
@@ -13,6 +15,10 @@ export default class Component extends React.Component {
 
   _update(payload) {
       this.setState(this.updatedState);
+  }
+
+  syncState() {
+
   }
 
   updatedState() {

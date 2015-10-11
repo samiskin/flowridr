@@ -559,6 +559,13 @@ function utm_geo(x_utm, y_utm, zone)
 // }
 //
 
+ORIG_LAT = 0;
+ORIG_LONG = 0;
+
+function SET_LLXY_ORIGIN(lat, long) {
+  ORIG_LAT = lat;
+  ORIG_LONG = long;
+}
 
 /*----------------------------------------------------------*/
 
@@ -567,13 +574,12 @@ function ll2xy(latitude, longitude)
    with(Math)
    {
       /* get the source lat and lon (to be converted) */
-      // var sll=getsll(Form);
       slat=latitude;
       slon=longitude;
 
       /* get the origin lat and lon */
-      olat=0;
-      olon=0;
+      olat=ORIG_LAT;
+      olon=ORIG_LONG;
 
       var   origin={};
 
@@ -625,7 +631,7 @@ origin);
 
       return {
         latitude: abs(slat).toFixed(6),
-        longitude: -abs(slon).toFixed(6)
+        longitude: abs(slon).toFixed(6)
       };
       // Form.DecSLat.value=abs(slat).toFixed(6);
       // Form.SLatDeg.value=dmlat.deg;
@@ -1030,6 +1036,3 @@ function resizingWindowGo()
 	var ychange = dheight - height;
 	window.resizeBy(xchange, ychange);
 }
-
-    console.log(ll2xy(37.769756, -122.414778));
-    console.log(xy2ll(-13627298.8, 4176097.6));
